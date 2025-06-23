@@ -1,9 +1,11 @@
-<?
-echo print_r($_REQUEST);
-// we can use $_REQUEST to get all the data from the form
-// we can also use $_POST or $_GET depending on the method used in the form
+<?php
+print_r($_REQUEST);
 
-foreach ($_REQUEST as $key => $value) {
-    echo "$key: $value<br>";
+$_REQUEST ['dummy']='test';
+ foreach ($_REQUEST as $key=> $data ){
+    echo  $key  . " is ".     $data;
+    echo "<br/>";
+    
 }
+// use foreach for displaying the data
 ?>
