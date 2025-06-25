@@ -36,3 +36,6 @@ if(isset($_POST['button'])){
         session_destroy();
     }
 }
+
+// // Note: Sessions are stored on the server side, unlike cookies which are stored on the client side.
+// // Sessions are more secure for sensitive data as they are not exposed to the client.
