@@ -25,8 +25,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [Visit My GitHub](https://github.com/Mangesh0781)
-- 📧 Email: *Add your email if you want here*
+- 💼 [Visit My GitHub](https://github.com/Mangesh0781
 
 ---
 
